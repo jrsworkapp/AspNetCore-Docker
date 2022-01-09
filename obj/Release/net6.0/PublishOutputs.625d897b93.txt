@@ -1,0 +1,7 @@
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/AspNetCoreOnDocker
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/appsettings.json
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/AspNetCoreOnDocker.dll
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/AspNetCoreOnDocker.deps.json
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/AspNetCoreOnDocker.runtimeconfig.json
+/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/bin/Release/net6.0/publish/AspNetCoreOnDocker.pdb
