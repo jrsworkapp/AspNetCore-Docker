@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bOfllOmO5PULZ8sRDKvWKnYF/pejlSJvCdAwWFPBoes=",
+  "Hash": "/nNuPgYyawmpKLmVTAL+wZ75VJO/2AchKbQCWrw5mns=",
   "Source": "AspNetCoreOnDocker",
   "BasePath": "_content/AspNetCoreOnDocker",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/bundle/AspNetCoreOnDocker.styles.css",
+      "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/bundle/AspNetCoreOnDocker.styles.css",
       "SourceId": "AspNetCoreOnDocker",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/bundle/",
       "BasePath": "_content/AspNetCoreOnDocker",
       "RelativePath": "AspNetCoreOnDocker.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/bundle/AspNetCoreOnDocker.styles.css"
+      "OriginalItemSpec": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/bundle/AspNetCoreOnDocker.styles.css"
     },
     {
-      "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/projectbundle/AspNetCoreOnDocker.bundle.scp.css",
+      "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/projectbundle/AspNetCoreOnDocker.bundle.scp.css",
       "SourceId": "AspNetCoreOnDocker",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/AspNetCoreOnDocker",
       "RelativePath": "AspNetCoreOnDocker.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,24 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/Release/net6.0/scopedcss/projectbundle/AspNetCoreOnDocker.bundle.scp.css"
+      "OriginalItemSpec": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/obj/release/net6.0/scopedcss/projectbundle/AspNetCoreOnDocker.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/wwwroot/.DS_Store",
+      "SourceId": "AspNetCoreOnDocker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/wwwroot/",
+      "BasePath": "_content/AspNetCoreOnDocker",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/jorgesantos/Docker-Demo/AspNetCoreOnDocker/wwwroot/css/site.css",
